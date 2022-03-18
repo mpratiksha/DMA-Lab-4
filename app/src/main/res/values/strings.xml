@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ThreeButtonChallenge</string>
+    <string name="text_one">Text One</string>
+    <string name="text_two">Text Two</string>
+    <string name="text_three">Text Three</string>
+    <string name="display_one">This is getting heavyCan you hear the bass boom? I amm ready (woo hoo)Life is sweet as honeyYeah, this beat cha-ching like money, huhDisco overload, I am into that, I am good to go I am diamond, you know I glow up</string>
+    <string name="display_two">Dy-na-na-na, na-na, na-na-na, na-na-na, life is dynamite Dy-na-na-na, na-na, na-na-na, na-na-na, life is dynamiteShining through the city with a little funk and soulSo I ama light it up like dynamite, whoa oh oh</string>
+    <string name="display_three">Ice on my wrist, I am that nice guy Got that right body and that right mindRolling up to party, got the right vibe Smooth like (butter), hate us (love us)</string>
+</resources>
